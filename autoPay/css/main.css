@@ -50,6 +50,15 @@ h2{
     padding: 0 0 0 0px;
 }
 
+.tcivs input.check_box:disabled{
+  background:url('../images/checkErrorX.png') no-repeat;
+  height: 34px;
+  width: 34px;
+  display:inline-block;
+  padding: 0 0 0 0px;
+  opacity: 1 !important;
+}
+
 .tcivs input.check_box:checked{
     background:url('../images/checked.png') no-repeat;
     height: 34px;
