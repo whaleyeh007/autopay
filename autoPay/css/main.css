@@ -1,10 +1,10 @@
 body{
-    font-size: 16px;
+    font-size: 24px;
     font-weight: 800;
 }
 
 h2{
-    font-size: 26px;
+    font-size: 27px;
 }
 
 .ftVer{
@@ -80,10 +80,11 @@ h2{
 
 .tcivs .serItems> .serviceBtn{
     width: 29%;
-    border: solid 3px #00C9B5;
-    padding: 25px 20px !important;
+    border: solid 3px #595959;
+    padding: 17px 20px !important;
     text-align: center;
-    color: #00C9B5;
+    color: #333;
+    background: #00C9B5;
     border-radius: 7px;
     margin: 2%;
     text-decoration: none;
@@ -138,15 +139,15 @@ h2{
 }
 
 .f_size22{
-    font-size: 22px !important;
-}
-
-.f_size24{
     font-size: 24px !important;
 }
 
+.f_size24{
+    font-size: 26px !important;
+}
+
 .f_size28{
-    font-size: 28px !important;
+    font-size: 30px !important;
     margin: 0;
     padding: 0;
 }
